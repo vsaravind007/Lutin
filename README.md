@@ -9,6 +9,6 @@ Build high performance distributed microservices using Nodejs without any syndic
 - No syndication or discovery nodes that could induce single point failures
 - Auto discovery of service nodes
 - No ports or IP addresses to configure - totally ZeroConf!
-- Extremely easy horizontally scalability
+- Extremely easy horizontal scalability
 - Predictable system states - no surprises here!
 - Auto load balancing between service node clones
