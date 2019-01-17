@@ -2,6 +2,8 @@
 
 Build high performance distributed microservices using Nodejs without any syndication/discovery nodes or message queues. 
 
+![Intro image](https://github.com/vsaravind007/Lutin/blob/master/intro.png)
+
 **Features**
 - Decentralised architecture
 - No syndication or discovery nodes that could induce single point failures
