@@ -1,0 +1,27 @@
+{
+  "name": "lutin",
+  "version": "1.0.0",
+  "description": "Distributed micro service framework with no syndication/discovery nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vsaravind007@github.com/vsaravind007/Lutin.git"
+  },
+  "keywords": [
+    "microservice",
+    "distributed",
+    "computing"
+  ],
+  "author": "Aravind VS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsaravind007/Lutin/issues"
+  },
+  "homepage": "https://github.com/vsaravind007/Lutin#readme",
+  "dependencies": {
+    "npm-email": "^3.0.0"
+  }
+}
